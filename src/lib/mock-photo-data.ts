@@ -109,38 +109,5 @@ export const mockPhotos: Photo[] = [
     views: 4321,
     photographer: 'Tom Anderson',
     dateTaken: '2023-12-20'
-  },
-  {
-    id: '10',
-    url: '/placeholder-10.jpg',
-    title: 'Ocean Serenity',
-    tags: ['ocean', 'beach', 'seascape', 'peaceful'],
-    likes: 198,
-    downloads: 82,
-    views: 2145,
-    photographer: 'Maya Thompson',
-    dateTaken: '2025-11-18'
-  },
-  {
-    id: '11',
-    url: '/placeholder-11.jpg',
-    title: 'Culinary Artistry',
-    tags: ['food', 'culinary', 'restaurant', 'gourmet'],
-    likes: 145,
-    downloads: 58,
-    views: 1654,
-    photographer: 'Oliver Martinez',
-    dateTaken: '2025-12-05'
-  },
-  {
-    id: '12',
-    url: '/placeholder-12.jpg',
-    title: 'Minimalist Abstract',
-    tags: ['abstract', 'minimalist', 'modern', 'art'],
-    likes: 276,
-    downloads: 104,
-    views: 3187,
-    photographer: 'Sophie Chen',
-    dateTaken: '2026-01-22'
   }
 ];
