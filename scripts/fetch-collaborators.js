@@ -24,7 +24,7 @@
  *   --format=table          Prints a Markdown table.
  */
 
-import { Octokit } from "@octokit/rest";
+const { Octokit } = require("@octokit/rest");
 
 // ---------------------------------------------------------------------------
 // Parse CLI arguments
